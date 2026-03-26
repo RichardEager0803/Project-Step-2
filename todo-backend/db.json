@@ -1,0 +1,25 @@
+{
+  "todos": [
+    {
+      "task": "Learn HTML",
+      "completed": false,
+      "id": "hI6f0W4JR2g"
+    },
+    {
+      "task": "Learn CSS",
+      "completed": false,
+      "id": "uk5ZC-aQvJk"
+    },
+    {
+      "task": "Learn JS",
+      "completed": false,
+      "id": "hIhFHa_u04M"
+    },
+    {
+      "task": "Learn React",
+      "completed": false,
+      "id": "rfPxWzsa8Cc"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
